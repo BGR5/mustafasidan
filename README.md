@@ -22,9 +22,6 @@ Here are the technologies and tools I work with:
 📚 Latest Blog Posts or Articles (optional)
 I will add as soon as possible.
 
-⚪ Blog Post Title 1
-⚪ Blog Post Title 2
-
 
 📬 Let's Connect
 Feel free to reach out to me via:
